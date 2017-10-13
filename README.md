@@ -1,5 +1,3 @@
-# SplineImport 
-
-A Unity3d tool.
-Can import spline data from DAE file.
-Now support from Cinema4d exported file only.
+样条导入工具
+可以将DAE模型格式中的样条线导入Unity中,使用自带的LineRender组件绘制，
+目前只支持从Cinema4D导出的DAE数据。
