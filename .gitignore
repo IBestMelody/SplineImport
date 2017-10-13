@@ -1,0 +1,7 @@
+#过滤文件
+*.meta 
+*.sln  
+
+#过滤文件夹
+Library/  
+Temp/  
